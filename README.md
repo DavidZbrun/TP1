@@ -8,7 +8,7 @@ Utilizando la placa de desarrolo NUCLEO-429ZI se desarrolla un pequeno sistema p
 - *Entrada analogica para sensor temperatura LM35*
 ### PERIFERICOS
 1. LED1
-2. D3 A D12 **I/O**
+2. D3 A D12 I/O
 3. D13 *Buzzer*
 4. A13
 5. UART
