@@ -11,6 +11,6 @@
 4. A13
 5. UART
 ___
-![diagrama Perifericos](diagrama.PNG)
+![diagrama Perifericos](diagrama.png)
 
 
